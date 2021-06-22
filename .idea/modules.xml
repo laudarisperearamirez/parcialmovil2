@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/parcialmovil2.iml" filepath="$PROJECT_DIR$/.idea/parcialmovil2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parcial.iml" filepath="$PROJECT_DIR$/parcial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/parcial_android.iml" filepath="$PROJECT_DIR$/android/parcial_android.iml" />
     </modules>
   </component>
 </project>
